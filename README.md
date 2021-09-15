@@ -4,7 +4,7 @@ Coming Soon
 
 ## Preprocessor
 
-Run "Preproccesor.py" to prepcrocess your images
+Run "Preproccesor.py" to preprocess your images
 
 ## Models
 
