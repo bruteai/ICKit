@@ -1,2 +1,29 @@
-# ICKit
-Image classification models in one place | Coming Soon 
+# ICKit - Image Classification Kit (All in one place) 
+
+Coming Soon
+
+## Preprocessor
+
+Run "Preproccesor.py" to prepcrocess your images
+
+## Models
+
+Resnet 
+
+Mobilenet
+
+Efficientnet
+
+## Train
+
+You can choose model of your choice and run it:
+
+E.g. Python train.py --model Efficientnet
+
+## Test
+
+To test on the images
+
+Run "Python test.py"
+
+### Files will be uploaded shortly
