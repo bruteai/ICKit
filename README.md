@@ -1,6 +1,6 @@
 # ICKit - Image Classification Kit (All in one place) 
 
-Coming Soon in 7 days
+Coming in 7 days
 
 ## Preprocessor
 
