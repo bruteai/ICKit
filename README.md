@@ -1,6 +1,9 @@
 # ICKit - Image Classification Kit (All in one place) 
 
-Coming Soon
+## Dataset
+Download the Cifar10 dataset. It is available publicaly available.
+
+You can also load your own custom dataset
 
 ## Preprocessor
 
@@ -8,15 +11,17 @@ Run "Preproccesor.py" to preprocess your images
 
 ## Models
 
-Resnet 
+Choose your model to that you would like to train.
 
-Mobilenet
+1 - Resnet 
 
-Efficientnet
+2 - Mobilenet
+
+3 - Efficientnet
 
 ## Train
 
-You can choose model of your choice and run it:
+You can choose model of your choice and run:
 
 E.g. Python train.py --model Efficientnet
 
@@ -26,4 +31,4 @@ To test on the images
 
 Run "Python test.py"
 
-### Files will be uploaded shortly
+
