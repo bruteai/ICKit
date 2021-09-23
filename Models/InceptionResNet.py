@@ -1,3 +1,4 @@
+# Resnet Model
 from tensorflow.keras.applications import InceptionResNetV2
 from keras.models import Sequential
 from keras.layers import Dense, Dropout, Flatten, BatchNormalization,Activation,Input,GlobalAveragePooling2D
