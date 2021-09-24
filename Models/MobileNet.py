@@ -1,3 +1,4 @@
+# Mobilenet Model
 from tensorflow.keras.applications import MobileNetV2
 from keras.layers import Dense,GlobalAveragePooling2D, Conv2D, Reshape, Activation, Dropout
 from tensorflow.keras.layers import Dense, Dropout, Flatten, BatchNormalization,Activation, Input,GlobalAveragePooling2D
