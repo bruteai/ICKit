@@ -1,4 +1,4 @@
-# Model Training
+# Train the model
 from argparse import ArgumentParser
 from tensorflow.keras.applications.resnet50 import ResNet50
 from tensorflow.keras import datasets, layers, models, losses, Model
