@@ -1,4 +1,4 @@
-# ICKit - Image Classification Kit (All in one place) 
+# ICKit - Image Classification Kit (3 models in one place) 
 
 ## Dataset
 Download the Cifar10 dataset. It is publicaly available.
