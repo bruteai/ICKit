@@ -11,7 +11,7 @@ Run "Preproccesor.py" to preprocess your images
 
 ## Models
 
-Choose your model to that you would like to train.
+Choose your model which you would like to train
 
 1 - Resnet 
 
