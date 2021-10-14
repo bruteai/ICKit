@@ -1,4 +1,4 @@
-#EfficientNet Model
+# EfficientNet Model
 from tensorflow.keras.applications import EfficientNetB7
 from keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout, Flatten, BatchNormalization,Activation, Input,GlobalAveragePooling2D
