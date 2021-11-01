@@ -1,4 +1,4 @@
-# Test Model
+# Test
 import os
 from tensorflow.keras.models import load_model
 from argparse import ArgumentParser
