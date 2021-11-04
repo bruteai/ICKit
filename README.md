@@ -9,7 +9,7 @@ You can also load your own custom dataset
 
 Run "Preproccesor.py" to preprocess your images
 
-## Models
+## Classification Models
 
 Choose your model which you would like to train
 
