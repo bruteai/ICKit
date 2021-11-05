@@ -19,7 +19,7 @@ Choose your model which you would like to train
 
 3 - Efficientnet
 
-## Train
+## Training
 
 You can choose model of your choice and run:
 
