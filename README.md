@@ -19,13 +19,13 @@ Choose your model which you would like to train
 
 3 - Efficientnet
 
-## Training
+## For Training 
 
 You can choose model of your choice and run:
 
 E.g. Python train.py --model Efficientnet
 
-## Test
+## For Test
 
 To test on the images
 
