@@ -2,7 +2,7 @@
 
 ## Dataset
 Download the Cifar10 dataset. It is publicaly available. 
-You can with imagenet dataset as well.
+You can load imagenet dataset as well.
 You can also load your own custom dataset
 
 ## Preprocessor
